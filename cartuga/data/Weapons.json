@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"animationId":6,"description":"A short sword. Something simple for the adventure","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Short Sword","note":"","params":[0,0,3,0,0,0,0,0],"price":0,"wtypeId":2},
+{"id":2,"animationId":6,"description":"An excellent weapon for a reasonable price.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Hand Axe","note":"","params":[0,0,6,0,0,0,0,0],"price":350,"wtypeId":4},
+{"id":3,"animationId":1,"description":"Inexpensive but not very effective in battle. \nSave your gold for the Club.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Pole","note":"","params":[0,0,2,0,0,0,0,0],"price":10,"wtypeId":6},
+{"id":4,"animationId":11,"description":"A good first weapon.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":110,"name":"Club","note":"","params":[0,0,4,0,0,0,0,0],"price":60,"wtypeId":6},
+{"id":5,"animationId":6,"description":"Forged of hardened steel, this sword demands respect.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Broad Sword","note":"","params":[0,0,14,0,0,0,0,0],"price":1000,"wtypeId":2},
+{"id":6,"animationId":6,"description":"The legendary sword that was said it was \nthe first weapon used against the Evils.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Hero Sword","note":"","params":[0,0,20,0,0,0,0,0],"price":0,"wtypeId":2}
+]
